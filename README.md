@@ -3,7 +3,13 @@
 DPI - Admission Assistant. It will help the new students to get clear concept about admission at Daffodil Polytechnic Institute
 
 ![](Screenshots/s1.png)
-
+![](Screenshots/s2.png)
+![](Screenshots/s3.png)
+![](Screenshots/s4.png)
+![](Screenshots/s5.png)
+![](Screenshots/s6.png)
+![](Screenshots/s7.png)
+![](Screenshots/s8.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
